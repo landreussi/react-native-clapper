@@ -1,0 +1,9 @@
+{
+  "name": "react-native-clapper",
+  "version": "0.3.82",
+  "description": "react-native api for clap recognizing",
+  "main": "Clapper.js",
+  "repository": "https://github.com/landreussi/react-native-clapper",
+  "author": "Lucas Andreussi",
+  "license": "MIT"
+}
